@@ -1,0 +1,13 @@
+name = "BlogPlots"
+uuid = "6cdf7ddc-f921-4c99-b811-b87ea854b40f"
+authors = ["Erik Engheim <erik.engheim@mac.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
