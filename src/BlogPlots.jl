@@ -1,5 +1,5 @@
 module BlogPlots
 
-# Write your package code here.
+include("cpu.jl")
 
 end
