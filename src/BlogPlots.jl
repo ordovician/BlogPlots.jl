@@ -1,5 +1,7 @@
 module BlogPlots
 
-include("cpu.jl")
+include("utils.jl")
+# include("cpu.jl")
+include("rockets.jl")
 
 end

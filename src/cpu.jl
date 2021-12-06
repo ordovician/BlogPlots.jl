@@ -1,7 +1,7 @@
 # Plots related to CPU talks
 export cpuwatts, plotvolts, plottransistors, plotfreq
 
-using CairoMakie
+using CairoMakie, ElectronDisplay
 
 noto_sans = assetpath("fonts", "NotoSans-Regular.ttf")
 noto_sans_bold = assetpath("fonts", "NotoSans-Bold.ttf")
@@ -69,3 +69,5 @@ function plotfreq()
     
     fig
 end
+
+# display(cpuwatts())

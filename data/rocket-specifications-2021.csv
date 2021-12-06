@@ -1,0 +1,5 @@
+rocket,height,diameter,fairing,mass,payload,thrust,Isp
+Falcon 9,70,3.7,5.2,549,22.8,7.6,282
+Falcon 9 v1.0,47.8,3.7,5.2,333,9,4.9,275
+Neutron,40,7,5,480,15,7.5,320
+New Glenn,98,7,7,0,45,17.1,327
