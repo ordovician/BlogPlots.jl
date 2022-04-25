@@ -70,4 +70,10 @@ function plotfreq()
     fig
 end
 
+# These numbers are from: https://browser.geekbench.com
+"Plot performance from geekbench5 for different CPUs"
+function geekbench5()
+    
+end
+
 # display(cpuwatts())
