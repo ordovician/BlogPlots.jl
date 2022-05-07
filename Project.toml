@@ -13,6 +13,7 @@ DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 ElectronDisplay = "d872a56f-244b-5cc9-b574-2017b5b909a8"
 
 [compat]
+CairoMakie = "0.8"
 julia = "1.6"
 
 [extras]
